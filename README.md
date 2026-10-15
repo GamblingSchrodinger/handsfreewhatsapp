@@ -1,8 +1,8 @@
-# 🎙️ WhatsApp Voice Assistant ("Keerthana Chemical Engineering")
+# 🎙️ WhatsApp Voice Assistant ()
 
 An intelligent, hands-free voice automation system for WhatsApp, custom-built for **Khandavalli Akarsh Anirudh**.
 
-Whenever **Keerthana Chemical Engineering** sends a message on WhatsApp:
+Whenever  sends a message on WhatsApp:
 1. **Reads Out Aloud**: Your laptop announces her message via high-quality natural Text-to-Speech (*"Keerthana sent: ... Listening for your reply."*).
 2. **Listens to You**: Your microphone automatically opens and captures your spoken reply.
 3. **Speech-to-Text**: Transcribes your voice into clean text (optimized for Indian English).
