@@ -1,0 +1,151 @@
+[2026-09-03 20:45:52] [WhatsApp] Starting browser...
+[2026-09-03 20:45:53] [WhatsApp] Navigating to WhatsApp Web...
+[2026-09-03 20:45:54] [WhatsApp] Checking login status...
+[2026-09-03 20:45:59] [WhatsApp] WhatsApp Web connected successfully!
+[2026-09-03 20:46:01] [WhatsApp] Locating chat 'Keerthana Chemical Engineering'...
+[2026-09-03 20:47:53] [WhatsApp] Starting browser...
+[2026-09-03 20:47:54] [WhatsApp] Navigating to WhatsApp Web...
+[2026-09-03 20:47:55] [WhatsApp] Checking login status...
+[2026-09-03 20:48:00] [WhatsApp] WhatsApp Web connected successfully!
+[2026-09-03 20:48:02] [WhatsApp] Locating chat 'Keerthana Chemical Engineering'...
+[2026-09-03 20:48:02] [WhatsApp] Clicked 'Keerthana Chemical Engineering' in sidebar...
+[2026-09-03 20:48:04] [WhatsApp] Searching for chat...
+[2026-09-03 20:48:06] [WhatsApp] Chat monitored: 'Keerthana Chemical Engineering'
+[2026-09-03 20:48:06] [WhatsApp] Monitoring incoming messages from 'Keerthana Chemical Engineering' (0 historical)
+[2026-09-03 20:51:58] [WhatsApp] Starting browser...
+[2026-09-03 20:51:59] [WhatsApp] Navigating to WhatsApp Web...
+[2026-09-03 20:52:00] [WhatsApp] Checking login status...
+[2026-09-03 20:52:05] [WhatsApp] WhatsApp Web connected successfully!
+[2026-09-03 20:52:07] [WhatsApp] Locating chat 'Keerthana Chemical Engineering'...
+[2026-09-03 20:52:07] [WhatsApp] Clicked 'Keerthana Chemical Engineering' in sidebar...
+[2026-09-03 20:52:08] [WhatsApp] Searching for chat...
+[2026-09-03 20:52:11] [WhatsApp] Chat monitored: 'Keerthana Chemical Engineering'
+[2026-09-03 20:52:11] [WhatsApp] Monitoring incoming messages from 'Keerthana Chemical Engineering' (0 historical)
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Keerthana Chemical Engineering
+We got basketball but mostly we play badminton
+Wait'
+[2026-09-03 20:52:27] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'Keerthana Chemical Engineering
+We got basketball but mostly we play badminton
+Wait'
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Ok'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Ok
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Wht aby my plan'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Wht aby my plan
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'U guys have basketball court'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: U guys have basketball court
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'But also badminton court'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: But also badminton court
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Keerthana Chemical Engineering
+Wht aby my plan
+Not feasible'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Keerthana Chemical Engineering
+Wht aby my plan
+Not feasible
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Tommorow is'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Tommorow is
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'AutoCAD lab'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: AutoCAD lab
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'You
+But also badminton court
+Nah we play in basketball court'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: You
+But also badminton court
+Nah we play in basketball court
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'We can meet at there'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: We can meet at there
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Keerthana Chemical Engineering
+Nah we play in basketball court
+Where is the Net??'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Keerthana Chemical Engineering
+Nah we play in basketball court
+Where is the Net??
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'No need for us'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: No need for us
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'If I think like that'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: If I think like that
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Huh'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Huh
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'There is a ground bigger than both MME and Chem dept combined'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: There is a ground bigger than both MME and Chem dept combined
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'Behind 1.8k'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: Behind 1.8k
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: 'I think u can see in maps'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: I think u can see in maps
+[2026-09-03 20:52:27] [WhatsApp] New incoming message from Keerthana: '8:52 pm'
+[2026-09-03 20:52:27] [Orchestrator] Busy processing previous reply, queuing notice: 8:52 pm
+[2026-09-03 20:52:29] [WhatsApp] New incoming message from Keerthana: 'Look at my charging'
+[2026-09-03 20:52:29] [Orchestrator] Busy processing previous reply, queuing notice: Look at my charging
+[2026-09-03 20:52:44] [Orchestrator] No speech detected.
+[2026-09-03 20:52:47] [WhatsApp] New incoming message from Keerthana: '8:52 pm'
+[2026-09-03 20:52:47] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: '8:52 pm'
+[2026-09-03 20:53:00] [Orchestrator] No speech detected.
+[2026-09-03 20:53:07] [WhatsApp] New incoming message from Keerthana: 'its working now'
+[2026-09-03 20:53:07] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'its working now'
+[2026-09-03 20:53:14] [WhatsApp] New incoming message from Keerthana: '8:53 pm'
+[2026-09-03 20:53:14] [Orchestrator] Busy processing previous reply, queuing notice: 8:53 pm
+[2026-09-03 20:53:19] [Orchestrator] No speech detected.
+[2026-09-03 20:53:37] [WhatsApp] New incoming message from Keerthana: 'You
+its working now
+Congrats'
+[2026-09-03 20:53:37] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'You
+its working now
+Congrats'
+[2026-09-03 20:53:47] [Orchestrator] Transcribed reply: 'thank'
+[2026-09-03 20:53:47] [Orchestrator] Auto-send countdown (2.5s)...
+[2026-09-03 20:53:49] [Orchestrator] Delivering reply: 'thank'
+[2026-09-03 20:53:50] [WhatsApp] Sending message: 'thank'...
+[2026-09-03 20:53:51] [WhatsApp] Message sent successfully!
+[2026-09-03 20:53:51] [Orchestrator] Message successfully delivered!
+[2026-09-03 20:53:51] [WhatsApp] New incoming message from Keerthana: 'thank'
+[2026-09-03 20:53:51] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'thank'
+[2026-09-03 20:54:10] [Orchestrator] Transcribed reply: 'highest built using Gemini what is it exactly see when I am writing I cannot listen to any'
+[2026-09-03 20:54:10] [Orchestrator] Auto-send countdown (2.5s)...
+[2026-09-03 20:54:12] [Orchestrator] Delivering reply: 'highest built using Gemini what is it exactly see when I am writing I cannot listen to any'
+[2026-09-03 20:54:12] [WhatsApp] Sending message: 'highest built using Gemini what is it exactly see when I am writing I cannot listen to any'...
+[2026-09-03 20:54:15] [WhatsApp] Message sent successfully!
+[2026-09-03 20:54:15] [Orchestrator] Message successfully delivered!
+[2026-09-03 20:54:15] [WhatsApp] New incoming message from Keerthana: 'highest built using Gemini what is it exactly see when I am writing I cannot listen to any'
+[2026-09-03 20:54:15] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'highest built using Gemini what is it exactly see when I am writing I cannot listen to any'
+[2026-09-03 20:54:27] [Orchestrator] No speech detected.
+[2026-09-03 20:55:15] [WhatsApp] New incoming message from Keerthana: 'wow it really detects everything'
+[2026-09-03 20:55:15] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'wow it really detects everything'
+[2026-09-03 20:55:28] [Orchestrator] No speech detected.
+[2026-09-03 20:55:49] [Orchestrator] Delivering reply: 'is it not working now'
+[2026-09-03 20:55:50] [WhatsApp] Sending message: 'is it not working now'...
+[2026-09-03 20:55:52] [WhatsApp] Message sent successfully!
+[2026-09-03 20:55:52] [Orchestrator] Message successfully delivered!
+[2026-09-03 20:55:52] [WhatsApp] New incoming message from Keerthana: 'is it not working now'
+[2026-09-03 20:55:52] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'is it not working now'
+[2026-09-03 20:55:57] [WhatsApp] New incoming message from Keerthana: 'Yy'
+[2026-09-03 20:55:57] [Orchestrator] Busy processing previous reply, queuing notice: Yy
+[2026-09-03 20:56:00] [Orchestrator] Transcribed reply: 'oh it is'
+[2026-09-03 20:56:00] [Orchestrator] Auto-send countdown (2.5s)...
+[2026-09-03 20:56:03] [Orchestrator] Delivering reply: 'oh it is'
+[2026-09-03 20:56:03] [WhatsApp] Sending message: 'oh it is'...
+[2026-09-03 20:56:05] [WhatsApp] Message sent successfully!
+[2026-09-03 20:56:05] [Orchestrator] Message successfully delivered!
+[2026-09-03 20:56:05] [WhatsApp] New incoming message from Keerthana: 'Wht happened?'
+[2026-09-03 20:56:05] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'Wht happened?'
+[2026-09-03 20:56:05] [WhatsApp] New incoming message from Keerthana: 'oh it is'
+[2026-09-03 20:56:05] [Orchestrator] Busy processing previous reply, queuing notice: oh it is
+[2026-09-03 20:56:14] [Orchestrator] Transcribed reply: 'all the digest its working'
+[2026-09-03 20:56:14] [Orchestrator] Auto-send countdown (2.5s)...
+[2026-09-03 20:56:15] [WhatsApp] New incoming message from Keerthana: 'Hm'
+[2026-09-03 20:56:15] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'Hm'
+[2026-09-03 20:56:16] [Orchestrator] Delivering reply: 'all the digest its working'
+[2026-09-03 20:56:16] [WhatsApp] Sending message: 'all the digest its working'...
+[2026-09-03 20:56:19] [WhatsApp] Message sent successfully!
+[2026-09-03 20:56:19] [Orchestrator] Message successfully delivered!
+[2026-09-03 20:56:19] [WhatsApp] New incoming message from Keerthana: 'all the digest its working'
+[2026-09-03 20:56:19] [Orchestrator] Busy processing previous reply, queuing notice: all the digest its working
+[2026-09-03 20:56:22] [Orchestrator] Transcribed reply: 'it's working to a well'
+[2026-09-03 20:56:22] [Orchestrator] Auto-send countdown (2.5s)...
+[2026-09-03 20:56:24] [Orchestrator] Delivering reply: 'it's working to a well'
+[2026-09-03 20:56:25] [WhatsApp] Sending message: 'it's working to a well'...
+[2026-09-03 20:56:27] [WhatsApp] Message sent successfully!
+[2026-09-03 20:56:27] [Orchestrator] Message successfully delivered!
+[2026-09-03 20:56:27] [WhatsApp] New incoming message from Keerthana: 'it's working to a well'
+[2026-09-03 20:56:27] [Orchestrator] Processing incoming message from Keerthana Chemical Engineering: 'it's working to a well'
+[2026-09-03 20:56:43] [Orchestrator] No speech detected.
+[2026-09-03 20:57:03] [Orchestrator] Shutting down WhatsApp Bot...
+[2026-09-03 20:57:03] [WhatsApp] Stopped.
