@@ -46,7 +46,7 @@ When running `python main.py`, a sleek dark-mode dashboard is displayed:
 ## ⚙️ Configuration (`config.py`)
 
 You can easily tweak settings in `config.py`:
-- `TARGET_CHAT`: Target contact name (default: `"Keerthana Chemical Engineering"`).
+- `TARGET_CHAT`: Target contact name (default: `""`).
 - `AUTO_SEND`: `True` to send automatically after speaking, or `False` to require clicking Send.
 - `AUTO_SEND_COUNTDOWN`: Delay in seconds (default: `2.5`) to allow reviewing the transcript before sending.
 - `READ_INCOMING_ALOUD`: `True` to speak her message out loud.
